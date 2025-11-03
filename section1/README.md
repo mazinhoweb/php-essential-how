@@ -1,10 +1,10 @@
-# PHP Essential How - Section 1 
+# PHP Essential How 
 GitHub repository: https://github.com/mazinhoweb/php-essential-how   
-GitHub repository - Section 1: https://github.com/mazinhoweb/php-essential-how/tree/main/section1  
 
 
 ## Section 1 
 PHP Essential learn the foundations of coding using PHP   
+GitHub repository: https://github.com/mazinhoweb/php-essential-how/tree/main/section1   
 
 
 ### Description 
