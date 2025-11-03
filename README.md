@@ -37,7 +37,8 @@ http://localhost/
 docker ps; docker ps -a;   
 docker stop apache-php84-app;   
 docker start apache-php84-app;   
-docker stop $(docker ps -aq); docker rm $(docker ps -aq);    
+docker stop $(docker ps -aq);   
+docker rm $(docker ps -aq);    
 docker ps; docker ps -a;   
 
 
