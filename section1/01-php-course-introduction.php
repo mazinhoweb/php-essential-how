@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Essential How - Section 1</title><link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <title>PHP Essential How - Section 1 - PHP Course Introduction</title><link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body { font-family: "Open Sans", sans-serif; font-optical-sizing: auto; font-style: normal; padding-top: 6px; /* Adjust for fixed navbar */}
         .container { margin-bottom: 10px; } 
@@ -27,8 +27,8 @@
                     <h2>Section 1</h2>
                 </div>
                 <div class="card-body">
-                    <p class="lead">PHP Essential learn the foundations of coding using PHP</p>
-                    <p class="lead"><pre>GitHub repository: <a href="https://github.com/mazinhoweb/php-essential-how/tree/main/section1" target="_blank">https://github.com/mazinhoweb/php-essential-how/tree/main/section1</a></pre></p>
+                    <p class="lead">PHP Course Introduction 02:49</p>
+                    <p class="lead"><pre>File: <a href="http://localhost/section1/01-php-course-introduction.php" target="_blank">http://localhost/section1/01-php-course-introduction.php</a></pre></p>
                 </div>
             </div>
         </section>
@@ -54,34 +54,7 @@
                     <h5>URL Address</h5>
                 </div>
                 <div class="card-body">
-                    <p><a href="http://localhost/section1" target="_blank">http://localhost/section1</a></p>
-                </div>
-            </div>
-        </section>
-
-        <section id="docker-container-commands" class="section-spacing">
-            <div class="card">
-                <div class="card-header">
-                    <h5>Docker Container Commands</h5>
-                </div>
-                <div class="card-body">
-                    <p>docker ps; docker ps -a;<br> 
-                        docker stop apache-php84-app;<br>
-                        docker start apache-php84-app;<br>
-                        docker stop $(docker ps -aq);<br>
-                        docker rm $(docker ps -aq);<br>
-                        docker ps; docker ps -a;</p>
-                </div>
-            </div>
-        </section>
-
-        <section id="inside-docker" class="section-spacing">
-            <div class="card">
-                <div class="card-header">
-                    <h5>Inside The MySQL Container</h5>
-                </div>
-                <div class="card-body">
-                    <p>docker exec -it apache-php84-app bash</p>
+                    <p><a href="http://localhost/section1/01-php-course-introduction.php" target="_blank">http://localhost/section1/01-php-course-introduction.php</a></p>
                 </div>
             </div>
         </section>
