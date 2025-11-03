@@ -62,8 +62,8 @@
                     <h4>Sections</h4>
                 </div>
                 <div class="card-body">
-                    <p>Section 1 - PHP Essential learn the foundations of coding using PHP</p>
-                    <p>Section 2 - PHP coding syntax and lessons</p>
+                    <p>Section 1: <a href="http://localhost/section1" target="_blank">PHP Essential learn the foundations of coding using PHP</a></p>
+                    <p>Section 2: <a href="http://localhost/section2" target="_blank">PHP coding syntax and lessons</a></p>
                 </div>
             </div>
         </section>
