@@ -43,4 +43,4 @@ docker ps; docker ps -a;
 
 
 ##### Inside The MySQL Container 
-docker exec -it apache-php-app bash   
+docker exec -it apache-php84-app bash   
