@@ -28,7 +28,7 @@
                 </div>
                 <div class="card-body">
                     <p class="lead">PHP Essential learn the foundations of coding using PHP</p>
-                    <p class="lead"><pre><a href="https://github.com/mazinhoweb/php-essential-how/tree/main/section1 " target="_blank">https://github.com/mazinhoweb/php-essential-how/tree/main/section1 </a></pre></p>
+                    <p class="lead"><pre>GitHub repository: <a href="https://github.com/mazinhoweb/php-essential-how/tree/main/section1 " target="_blank">https://github.com/mazinhoweb/php-essential-how/tree/main/section1 </a></pre></p>
                 </div>
             </div>
         </section>
