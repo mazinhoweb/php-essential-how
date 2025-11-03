@@ -20,7 +20,7 @@ Section 2 - PHP coding syntax and lessons
 Laurence Svekis - Instructor, GDE, Application Developer   
 
 
-##### Docker 
+##### Docker - PHP 8.4 Apache 
 Apache without a Dockerfile    
 docker run -d -p 80:80 --name apache-php84-app -v "$PWD":/var/www/html php:8.4-apache   
 
