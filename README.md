@@ -16,24 +16,24 @@ Section 1 - PHP Essential learn the foundations of coding using PHP
 Section 2 - PHP coding syntax and lessons   
 
 
-##### Instructor 
+#### Instructor 
 Laurence Svekis - Instructor, GDE, Application Developer   
 
 
-###### Docker 
+##### Docker 
 Apache without a Dockerfile    
 docker run -d -p 80:80 --name apache-php84-app -v "$PWD":/var/www/html php:8.4-apache   
 
 
-###### Docker Container exec 
+##### Docker Container exec 
 docker exec -it apache-php84-app bash    
 
 
-###### Browser URL Address 
+##### Browser URL Address 
 http://localhost/    
 
 
-###### Docker Container Commands 
+##### Docker Container Commands 
 docker ps; docker ps -a;   
 docker stop apache-php84-app;   
 docker start apache-php84-app;   
@@ -41,5 +41,5 @@ docker stop $(docker ps -aq); docker rm $(docker ps -aq);
 docker ps; docker ps -a;   
 
 
-###### Inside The MySQL Container 
+##### Inside The MySQL Container 
 docker exec -it apache-php-app bash   
