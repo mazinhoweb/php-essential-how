@@ -6,5 +6,10 @@ GitHub repository: https://github.com/mazinhoweb/php-essential-how
 Learn the foundations and features of why PHP code is so popular through this series of clear easy to follow lessons    
 https://www.udemy.com/course/php-essential-how-to-create-build-amazing-websites-with-php   
 
-### Instructor 
+
+### Description 
+This course is designed to be easy to follow along, its encouraged to practice the code being presented through out the course. Resources, source code, and everything you need to learn PHP is provided. Start with simple PHP functionality as we explain how it integrates with HTML.   
+
+
+#### Instructor 
 Laurence Svekis - Instructor, GDE, Application Developer   
