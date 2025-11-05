@@ -26,9 +26,19 @@
                 <div class="card-header">
                     <h2>Section 1</h2>
                 </div>
+                <div class="card-header">
+                    <h4>PHP Course Introduction 02:49</h4>
+                </div>
                 <div class="card-body">
-                    <p class="lead">PHP Course Introduction 02:49</p>
-                    <p class="lead"><pre>File: <a href="http://localhost/section1/01-php-course-introduction.php" target="_blank">http://localhost/section1/01-php-course-introduction.php</a></pre></p>
+                    <p class="lead">
+                        PHP Loops: For<br>
+                        <?php
+                            for ($i = 1; $i <= 10; $i++) {
+                                $color = ($i % 3) ? 'bbb' : 'eee';
+                                echo '<div style="background:#' . $color . '">The current valueof $i is ' . $i . '.</div>';
+                            }
+                        ?>
+                    </p>
                 </div>
             </div>
         </section>
