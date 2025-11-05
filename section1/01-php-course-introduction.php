@@ -31,7 +31,7 @@
                 </div>
                 <div class="card-body">
                     <p class="lead">
-                        PHP Loops: For<br>
+                        PHP Loop: For<br>
                         <?php
                             for ($i = 1; $i <= 10; $i++) {
                                 $color = ($i % 3) ? 'bbb' : 'eee';
