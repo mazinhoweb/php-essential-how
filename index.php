@@ -85,8 +85,9 @@
                     <h5>Docker - PHP 8.4 Apache</h5>
                 </div>
                 <div class="card-body">
-                    <p>Apache without a Dockerfile</p>  
-                    <p>docker run -d -p 80:80 --name apache-php84-app -v "$PWD":/var/www/html php:8.4-apache</p>
+                    <p>Apache without a Dockerfile<br>  
+                        <pre>docker run -d -p 80:80 --name apache-php84-app -v "$PWD":/var/www/html php:8.4-apache</pre>
+                    </p>
                 </div>
             </div>
         </section>
